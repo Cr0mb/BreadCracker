@@ -1,3 +1,6 @@
+![breadcracker](https://github.com/Cr0mb/BreadCracker/assets/137664526/7aa0c2e6-1f56-4990-aff7-d01686b137d2)
+
+
 # Bread Cracker
 Bread Cracker is a Python script designed to scan for cryptocurrency wallets derived from mnemonic seeds and check their balances. 
 It supports both Bitcoin (BTC) and Ethereum (ETH) wallets. The script utilizes the BIP-39 standard for mnemonic generation and BIP-44 for wallet derivation.
