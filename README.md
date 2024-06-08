@@ -1,5 +1,7 @@
 ![image](https://github.com/Cr0mb/BreadCracker/assets/137664526/50a58a13-0134-4516-b205-c9044cbd17b4)
 
+[Video](https://www.youtube.com/watch?v=X346wqB37vw&t=736s)
+```Direct Url: https://www.youtube.com/watch?v=X346wqB37vw&t=736s```
 
 # Bread Cracker
 Bread Cracker is a Python script designed to scan for cryptocurrency wallets derived from mnemonic seeds and check their balances. 
